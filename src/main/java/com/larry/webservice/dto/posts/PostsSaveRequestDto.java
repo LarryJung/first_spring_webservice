@@ -1,4 +1,4 @@
-package com.larry.webservice.web;
+package com.larry.webservice.dto.posts;
 
 import com.larry.webservice.domain.posts.Posts;
 import lombok.Builder;

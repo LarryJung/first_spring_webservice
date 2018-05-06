@@ -2,7 +2,7 @@ package com.larry.webservice.service;
 
 import com.larry.webservice.domain.posts.Posts;
 import com.larry.webservice.domain.posts.PostsRepository;
-import com.larry.webservice.web.PostsSaveRequestDto;
+import com.larry.webservice.dto.posts.PostsSaveRequestDto;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

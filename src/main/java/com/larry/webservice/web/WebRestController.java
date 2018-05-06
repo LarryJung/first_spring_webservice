@@ -1,6 +1,6 @@
 package com.larry.webservice.web;
 
-import com.larry.webservice.domain.posts.PostsRepository;
+import com.larry.webservice.dto.posts.PostsSaveRequestDto;
 import com.larry.webservice.service.PostsService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
